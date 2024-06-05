@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137405769187",
+    "project_id": "colab-da135",
+    "storage_bucket": "colab-da135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137405769187:android:a75507915c1cb40906ecd6",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVSn9of-jklt8Uy_BnSr3icbEgTVz868"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
